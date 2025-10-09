@@ -1,4 +1,4 @@
-# Curing ``Miracle Steps'' in LLM Math Reasoning with Rubric Rewards
+# Curing Miracle Steps in LLM Math Reasoning with Rubric Rewards
 
 
 
@@ -250,6 +250,20 @@ Configuration Options:
 - `tinyv_only`: Uses RRM exclusively for verification, without using rule-based verifiers entirely.
 - `addon`: RRM works alongside existing rule-based verifiers. RRM is triggered only when the rule-based verifier determines the answer is incorrect.
 
+
 Important Note: If you intend to use RRM, please add the suffix `_tinyv` to your `data_source` name. Otherwise, it will fall back to the default verifier, which is Prime Math.
 
+
+## Citation
+
+If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
+```bibtex
+@inproceedings{
+yuan2025miraclesteps,
+title={Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards},
+author={Youliang Yuan and Qiuyang Mang and Jingbang Chen, Hong Wan and Xiaoyuan Liu and Junjielong Xu and Jen-tse Huang and Wenxuan Wang and Wenxiang Jiao and Pinjia He},
+booktitle={},
+year={2025},
+url={}
+}
 
