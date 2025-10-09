@@ -258,7 +258,7 @@ Important Note: If you intend to use RRM, please add the suffix `_tinyv` to your
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```bibtex
-@inproceedings{
+@article{
 yuan2025miraclesteps,
 title={Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards},
 author={Youliang Yuan and Qiuyang Mang and Jingbang Chen, Hong Wan and Xiaoyuan Liu and Junjielong Xu and Jen-tse Huang and Wenxuan Wang and Wenxiang Jiao and Pinjia He},
