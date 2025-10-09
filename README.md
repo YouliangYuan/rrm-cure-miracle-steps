@@ -1,6 +1,15 @@
 # Curing Miracle Steps in LLM Math Reasoning with Rubric Rewards
 
 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2308.06463)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-yellow)](https://huggingface.co/datasets/anonymous0321/anonmyous)
+
+This repository contains the official implementation of the paper: **"Curing 'Miracle Steps' in LLM Mathematical Reasoning with Rubric Rewards"**.
+
+Our work tackles a critical issue in LLM mathematical reasoning: **"false positives"**—when models arrive at the correct final answer through a flawed or illogical reasoning process. We identify several failure patterns, including what we term **"Miracle Steps"**, where a model abruptly produces a correct intermediate or final result without valid derivation, likely due to memorization.
+
+To address this, we introduce the **Rubric Reward Model (RRM)**, a process-oriented reward function that evaluates the entire reasoning trajectory against problem-specific rubrics. By rewarding logical soundness instead of just the final outcome, our method trains LLMs to be not only more accurate but also more reliable and trustworthy.
+
 
 
 ## Installation
