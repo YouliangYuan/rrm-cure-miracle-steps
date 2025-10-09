@@ -261,7 +261,7 @@ If you find our paper&tool interesting and useful, please feel free to give us a
 @article{
 yuan2025miraclesteps,
 title={Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards},
-author={Youliang Yuan and Qiuyang Mang and Jingbang Chen and Hong Wan and Xiaoyuan Liu and Junjielong Xu and Jen-tse Huang and Wenxuan Wang and Wenxiang Jiao and Pinjia He},
+author={Yuan, Youliang and Mang, Qiuyang and Chen, Jingbang and Wan, Hong and Liu, Xiaoyuan and Xu, Junjielong and Huang, Jen-tse and Wang, Wenxuan and Jiao, Wenxiang and He, Pinjia},
 booktitle={},
 year={2025},
 url={}
