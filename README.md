@@ -1,6 +1,6 @@
-# Anonymous
+# Curing ``Miracle Steps'' in LLM Math Reasoning with Rubric Rewards
 
-Anonymous Repo for an ICLR Submission paper.
+
 
 
 ## Installation
