@@ -2,7 +2,7 @@
 
 <div align="center">
       
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2308.06463)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2510.07774)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-yellow)](https://huggingface.co/datasets/Youliang/rrm)
 
 </div>
@@ -275,8 +275,8 @@ If you find our paper&tool interesting and useful, please feel free to give us a
 yuan2025miraclesteps,
 title={Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards},
 author={Yuan, Youliang and Mang, Qiuyang and Chen, Jingbang and Wan, Hong and Liu, Xiaoyuan and Xu, Junjielong and Huang, Jen-tse and Wang, Wenxuan and Jiao, Wenxiang and He, Pinjia},
-booktitle={},
+booktitle={arxiv},
 year={2025},
-url={}
+url={https://arxiv.org/abs/2510.07774}
 }
 
